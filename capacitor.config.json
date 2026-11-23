@@ -1,5 +1,8 @@
 {
   "appId": "com.lyricvideo.app",
   "appName": "Lyric Video",
-  "webDir": "www"
+  "webDir": "www",
+  "server": {
+    "url": "https://GigaChad1234567891.github.io/lyric-video-app/"
+  }
 }
